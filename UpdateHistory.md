@@ -1,5 +1,11 @@
 
 
+## 1.32.6.2beta
+
+FCM Hex
+
+
+
 ## 1.32.6.1.beta
 
 removeAlbumの修正
