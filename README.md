@@ -62,7 +62,7 @@ limebeta.dev@gmail.com
 
 > [!WARNING]
 > 非 root 端末では､ 以下の問題があります  
-> - **Google アカウント (ドライブ) を使用した**トーク履歴の復元ができない  
+> - ~~**Google アカウント (ドライブ) を使用した**トーク履歴の復元ができない  ~~
 >   ([この方法](https://github.com/Chipppppppppp/LIME/issues/50#issuecomment-2174842592) でログインすれば可能)
 > - コインの購入が不可  
 > - LINE Pay の一部の機能が使用不可 
