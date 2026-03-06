@@ -237,5 +237,7 @@
 - **WalletEdit_Button**<br>
 </details><br>
 <br>
-LIMEsの設定画面に存在しない隠し機能は [これ](https://github.com/areteruhiro/LIMEs/blob/master/Notification-Hide-Setting-Readme.md)
+LIMEsの設定画面に存在しない隠し機能は
+https://github.com/areteruhiro/LIMEs/blob/master/Notification-Hide-Setting-Readme.md
+
 最終更新：2026/03/06
