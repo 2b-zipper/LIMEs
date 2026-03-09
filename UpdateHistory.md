@@ -1,5 +1,20 @@
 
 
+## 1.34.2.beta
+
+E2EE_Disable機能の追加
+<危険です,設定をサーバーに送信したい場合、プライバシー管理→LetterSealing以外の項目をON or OFFにしてください>
+https://discord.com/channels/1392057820316303362/1479429727239405659
+特定の設定状態の際に既読をつけるボタンをおしても既読がつかないのを修正
+https://discord.com/channels/1392057820316303362/1480399111378305058
+通知に既読をつけるアクションの作成
+https://discord.com/channels/1392057820316303362/1479019001945260152
+15.12.2既読確認ボタン初期位置を修正
+https://discord.com/channels/1392057820316303362/1478537682555637852
+May be TokenGetでトーストが限りなく表示されてしまうのを修正
+
+
+
 ## 1.34.1.bata
 
 minimumAcceptableKeywordLength がNotificationカテゴリに分類されていたのをchatに変更
