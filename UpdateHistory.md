@@ -1,5 +1,11 @@
 
 
+## 1.34.2.1beta
+
+URI SETTING FIX
+
+
+
 ## 1.34.2.beta
 
 E2EE_Disable機能の追加
