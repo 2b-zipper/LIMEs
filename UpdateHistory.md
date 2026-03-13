@@ -1,5 +1,19 @@
 
 
+## 1.34.3.2.alpha
+
+[15.12.2]
+- LIMEsTalkBackUpRestore機能の追加と環境による変化を鑑みてalphaバージョンに変更
+- リマインくんのバックアップでバックアップが行えない場合があったのを修正
+- List Foldersボタンの機能の追加
+- メールアドレス入力欄(選択しているアカウントのメールアドレスを入力してください)
+-naver_line 修正
+ 以前のバージョンで正しくバックアップされていないまま復元した場合にnaver_lineファイルが膨大になってしまったのを修正します
+ - 保存/復元(manual)/削除　機能の追加
+ - tokenをSharedPreferences　にSharedPreferencesするように変更
+
+
+
 ## 1.34.3.1beta
 
 [All]
