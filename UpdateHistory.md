@@ -2,6 +2,12 @@
 
 ## 1.34.3.5alpha
 
+TalkBackUpCloud_Disableoverride　機能の追加
+
+
+
+## 1.34.3.5alpha
+
 manual tokenの利用を有効化
 
 
