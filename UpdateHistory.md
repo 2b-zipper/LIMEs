@@ -1,5 +1,11 @@
 
 
+## 1.34.3.5alpha
+
+manual tokenの利用を有効化
+
+
+
 ## 1.34.3.4alpha
 
 LIMEsTalkBackUpRestore機能の改善
