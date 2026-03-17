@@ -1,5 +1,13 @@
 
 
+## 1.35.0.0alpha
+
+Merge pull request #29 from areteruhiro/alpha
+
+UIおよびUXの大幅な改善
+
+
+
 ## 1.34.3.6alpha
 
 Merge remote-tracking branch 'origin/master'
