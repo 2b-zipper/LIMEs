@@ -1,5 +1,15 @@
 
 
+## 1.35.0.1alpha
+
+- 生体認証ロック解除の名称がわかりにくい
+- 再起動ボタンの復活
+- EnterKey関連の設定の説明をよりわかりやすく、通話中は着信設定を自動で切り替え、の名称と説明、Remove More button の説明改善
+- 既読関連に未読の設定もまとめる
+- May be 人間が今一度オプション名をレビューして精査
+
+
+
 ## 1.35.0.0alpha
 
 Merge pull request #29 from areteruhiro/alpha
