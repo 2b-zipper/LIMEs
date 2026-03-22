@@ -1,5 +1,26 @@
 
 
+## 1.36.2.0.alpha
+
+Notification_Customize機能の改善
+Mute add notification action の機能の改善
+
+AlbumAutoDownload の動的検出
+Original_Tone動的検出
+PhotoSave動的検出
+albumDownload動的検出
+リアクション数バッジを表示　動的検出
+TalkBackUpCloud_Disableoverrideがロードされていなかったのを修正
+minimumAcceptableKeywordLength動的検出
+トーク履歴のバックアップ・復元　動的検出
+TokenGet動的検出
+ダークテーマに着せ替え　動的検出
+LINEのVersion変化により再取得するように
+
+α版
+
+
+
 ## 1.36.0.3.alpha
 
 動的検出を増やした
