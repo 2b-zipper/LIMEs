@@ -1,5 +1,13 @@
 
 
+## 1.36.3.0.1alpha
+
+恐らくすべての機能の動的検出を有効にしました
+stringsは更新していません
+α版
+
+
+
 ## 1.36.2.0.alpha
 
 Notification_Customize機能の改善
