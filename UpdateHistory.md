@@ -1,5 +1,16 @@
 
 
+## 1.36.4.3.alpha
+
+All
+EmbedOptions で特定の端末の場合トグルが黒くなるのを修正
+リソースオプション読み込みをSharedPreferencesに保存に変更
+その影響で/設定/からの再起動の際のみリソースの設定状態が更新されます
+関連する設定項目
+removeIconLabels,removeSearchBar,RemoveNotification(Profile Update),removeNewsOrCall,removeWallet,removeVoom,removeServiceLabels,RemoveVoiceRecord(表示のみ)
+
+
+
 ## 1.36.4.2.alpha
 
 15.12.2
