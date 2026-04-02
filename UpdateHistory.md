@@ -1,5 +1,17 @@
 
 
+## 1.36.4.4
+
+all
+add Google Analytics
+GMS core バックアップ　動的検出を有効に
+maybe 重複通知修正
+15.2.2
+add Search filter
+LIMEs独自をGMS coreバックアップに対応
+
+
+
 ## 1.36.4.3.alpha
 
 Main Activityトグルが黒くなるのを修正
