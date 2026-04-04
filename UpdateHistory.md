@@ -1,5 +1,13 @@
 
 
+## 1.36.4.5
+
+15.2.2
+add Search filter　の改善
+LIMEs独自をGMS coreバックアップのバグを修正
+
+
+
 ## 1.36.4.4
 
 all
