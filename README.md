@@ -1,5 +1,5 @@
-# This repository is a fork of the now-deleted [LIMEs](https://github.com/areteruhito/LIMEs), preserved for archival purposes. 
-Please note that I am not the original creator; all credit goes to [@areteruhito](https://github.com/areteruhito).
+# This repository is a fork of the now-deleted [LIMEs](https://github.com/areteruhiro/LIMEs), preserved for archival purposes. 
+Please note that I am not the original creator; all credit goes to [@areteruhiro](https://github.com/areteruhiro).
 
 ---
 
