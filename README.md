@@ -1,3 +1,10 @@
+# This repository is a fork of the now-deleted [LIMEs](https://github.com/areteruhito/LIMEs), preserved for archival purposes. 
+Please note that I am not the original creator; all credit goes to [@areteruhito](https://github.com/areteruhito).
+
+---
+
+## Original README below
+
 # <img src="app/src/main/ic_launcher-playstore.png" width="60px"> LIMEs: Adkiller for LINE
 
 GitHubは頻繁に更新しません。 <br>
